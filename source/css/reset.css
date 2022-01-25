@@ -124,6 +124,14 @@ img {
 #pagination{
   width: 100%;
 }
+#post-info .post-title{
+  color: black !important;
+}
+#post-info #post-meta{
+  color: black !important;
+}
+
+
 /* https://gitee.com/wu_zhiguang/blog/raw/master/img/20200914122545_iiyuu.jpg */
 /* https://gitee.com/wu_zhiguang/blog/raw/master/img/20200914115729_pgytm.jpg */
 /* https://gitee.com/wu_zhiguang/blog/raw/master/img/20200812155430_vbgij.jpg */

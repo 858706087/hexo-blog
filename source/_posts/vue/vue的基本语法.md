@@ -1,18 +1,23 @@
 ---
-title: React语法入门
+title: vue语法入门
 date: 2021-12-22
-tags: react
-categories: react
+tags: vue
+categories: vue
 top_img: false
-cover: https://xinlong-1305839380.cos.ap-beijing.myqcloud.com/%E5%BC%A0%E9%91%AB%E9%BE%99%E7%9A%84%E5%9B%BE%E7%89%87/%E5%B0%81%E9%9D%A2%E5%B0%8F/2.jpeg
+cover: https://xinlong-1305839380.cos.ap-beijing.myqcloud.com/%E5%BC%A0%E9%91%AB%E9%BE%99%E7%9A%84%E5%9B%BE%E7%89%87/%E5%B0%81%E9%9D%A2%E5%B0%8F/3.jpeg
 aside: false
 swiper_index: 9
-swiper_desc: React语法
+swiper_desc: Vue语法
 swiper_cover:
 ---
-# React语法
+# Vue语法
 
-`项目中用的较多的`
+
+
+
+
+
+<!-- `项目中用的较多的`
 
 * 渲染元素
 * 组件（函数组件、类组件）
@@ -118,4 +123,4 @@ export default index;
 
 `上面代码的flag状态如果是true的话就会走数组遍历否则就走没有渲染任何东西`
 `结果如下:`
-![](/images/三元运算.png)
+![](/images/三元运算.png) -->
